@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Creative.Cat
-featuredImage: 'https://ucarecdn.com/5e06e151-c353-48ee-87cd-d99ddf97317d/'
+featuredImage: 'https://ucarecdn.com/d8811111-183c-42d3-9bf7-8d7ba171d9e2/'
 subtitle: |-
   >  **A Digital Solutions Provider**
   >
@@ -46,8 +46,6 @@ We love serverless technology. Here are some reasons why:
 * Stable & fast for high-traffic sites
 * Git, version control, & CI/CD
 * Branch split-testing
-
-
 
 ## Get started
 
