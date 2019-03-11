@@ -11,8 +11,12 @@ accordion:
   - content: 1sdfsdf
     title: 1sdfsd
 meta:
-  description: This is a meta description.
-  title: 'Creative Cat - A Utah Digital Solutions Provider | Design & Development | '
+  description: >-
+    We help design & develop creative solutions to help solve problems, with a
+    strong focus on web technologies. We love serverless technology and the many
+    advantages this cutting-edge solution brings. We'll help you build a web
+    presence securely and efficiently.
+  title: Creative Cat - Web Development & Design | Marketing | Serverless
 ---
 We help design & develop creative solutions to help solve problems, with a strong focus on web technologies.
 
@@ -49,4 +53,4 @@ We love serverless technology. Here are some reasons why:
 
 Let's get in touch. View the Contact Us page or send a message via live-chat.
 
-![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)
+![Contact Us](https://www.netlify.com/img/deploy/button.svg)
