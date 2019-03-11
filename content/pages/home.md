@@ -12,50 +12,41 @@ accordion:
     title: 1sdfsd
 meta:
   description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  title: 'Creative Cat - A Utah Digital Solutions Provider | Design & Development | '
 ---
-We help design & develop creative solutions to help solve problems, with a strong focus on web technologies & digital security.
+We help design & develop creative solutions to help solve problems, with a strong focus on web technologies.
 
+Our infrastructure is backed by industry-leading technology to ensure we deliver dependable results. We keep up with latest technology trends to implement powerful solutions that help solve real problems in our communities.
 
+Not sure exactly what solutions you're looking for? That's fine— most people don't! That's where we come in. We can help you discover where your technology stack might be lacking and what might be holding you back (or simply unnecessarily draining your wallet).
 
-Our infrastructure is backed by industry-leading technology to ensure we deliver dependable results. We keep up with latest technology trends to implement powerful solutions that solve real problems in our communities.
-
-
-
-Not sure exactly what solutions you're looking for? That's fine— most people don't! That's where we come in. We'll help you discover where your infrastructure might be lacking and the technologies that are holding you back (and those posing significant risks.)
-
-
-
-We work with an ever-expanding, carefully curated list of technologies, platforms, and services to provide valuable assistance in maintaining a digital presence. Our experience transitioning platforms helps us deliver powerful results.
-
-We work diligently to provide services that help our community be fully-compliant with the growing privacy, accessibility, and security regulations worldwide.
-
-
-
-# What we offer
+## What we offer
 
 * Coding & Development
 * Web Design
 * Hosting & Support
 * eMarketing, Adwords & SEO
 
-Yellowcake is an opinionated starter project created by Thrive Digital to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+This website was built with with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org) to bring you lightning-fast page load speeds and high-ranking SEO scores.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+We love serverless technology. Here are some reasons why:
 
-# Features
+## Features
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+* Ironclad security
+* Globally distributed site
+* Reduced hosting costs
+* Faster than caching plugins
+* Obtain higher SEO scores
+* Energy efficient & environmentally responsible
+* Stable & fast for high-traffic sites
+* Git, version control, & CI/CD
+* Branch split-testing
+
+
 
 ## Get started
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+Let's get in touch. View the Contact Us page or send a message via live-chat.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)
