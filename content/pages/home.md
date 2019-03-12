@@ -7,9 +7,7 @@ subtitle: |-
   >  **A Digital Solutions Provider**
   >
   > > based in Utah
-accordion:
-  - content: 1sdfsdf
-    title: 1sdfsd
+accordion: []
 meta:
   description: >-
     We help design & develop creative solutions to help solve problems, with a
@@ -50,5 +48,3 @@ We love serverless technology. Here are some reasons why:
 ## Get started
 
 Let's get in touch. View the Contact Us page or send a message via live-chat.
-
-![Contact Us](https://www.netlify.com/img/deploy/button.svg)
