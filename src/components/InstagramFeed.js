@@ -50,7 +50,7 @@ export default class InstagramFeed extends Component {
 
     if (!insaFeed) {
       typeof window !== 'undefined' &&
-        fetch(`https://instagram.thrivex.io/?ref=manjaro_linux`)
+        fetch(`https://instagram.thrivex.io/?ref=programmerrepublic`)
           .then(res => res.json())
           .then(data => {
             insaFeed = data && data.items ? data.items : []
