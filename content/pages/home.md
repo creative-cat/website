@@ -2,7 +2,8 @@
 template: HomePage
 slug: ''
 title: Creative.Cat
-featuredImage: 'https://ucarecdn.com/9e6ffc8c-498d-40fa-ae05-895ace15d404/'
+featuredImage: >-
+  https://ucarecdn.com/e4d0a95e-e242-4afd-9156-acc958df6c7f/-/preview/-/enhance/100/-/grayscale/
 subtitle: |-
   >  **A Digital Solutions Provider**
   >
