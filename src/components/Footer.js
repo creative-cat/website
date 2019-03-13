@@ -5,7 +5,6 @@ import './Footer.css'
 export default () => (
   <div>
     <h2 className="taCenter">
-      <a href="/contact/">Contact Us</a>
     </h2>
     <br />
     <InstagramFeed count="8" />
