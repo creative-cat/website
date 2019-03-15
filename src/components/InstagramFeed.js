@@ -50,7 +50,7 @@ export default class InstagramFeed extends Component {
 
     if (!insaFeed) {
       typeof window !== 'undefined' &&
-        fetch(`https://instagram.thrivex.io/?ref=creative.cat.development`)
+        fetch(`/instajson`)
           .then(res => res.json())
           .then(data => {
             insaFeed = data && data.items ? data.items : []
