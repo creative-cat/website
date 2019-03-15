@@ -100,7 +100,7 @@ export default class InstagramFeed extends Component {
 const Post = ({ src, code }) => (
   <a
     className="InstagramFeed--EmptyPost InstagramFeed--EmptyPost-loaded"
-    href={`#`}
+    href={``}
     rel="noopener noreferrer"
     target="_blank"
     aria-label="Instagram Post Link"
