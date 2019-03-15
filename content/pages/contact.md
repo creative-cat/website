@@ -9,8 +9,8 @@ address: 'Orem, Utah'
 phone: +1 (801) 901-2024
 email: jeff@creative.cat
 locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
+  - lat: '40.296972'
+    lng: '-111.694604'
     mapLink: ''
 meta:
   description: Get in touch with Creative Cat to get help or more information.
@@ -18,4 +18,4 @@ meta:
 ---
 ## How to reach us
 
-Feel free to submit this form, give us a call, or send us a live-chat message. We'll respond quickly to your inquiry. 
+Feel free to submit this form, give us a call, shoot us an e-mail, or send us a message via live-chat. We'll respond shortly to your inquiry. 
