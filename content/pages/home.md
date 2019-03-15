@@ -48,4 +48,4 @@ We love serverless technology. Here are some reasons why:
 * Git, version control, & CI/CD
 * Simple staging & split-testing
 
-<p class="contactbtn"><img class="gatsby-resp-image-image" style="width: 100%; height: 100%; margin: 0px; vertical-align: middle; position: absolute; top: 0px; left: 0px; box-shadow: white 0px 0px 0px 400px inset; opacity: 1; transition: opacity 0.5s ease 0s;" alt="Chat with us" title="" src="/static/a023a9381fca2c229058fa578b0dddf4/f48da/button_chat-with-us.png" srcset="/static/a023a9381fca2c229058fa578b0dddf4/f48da/button_chat-with-us.png 140w" sizes="(max-width: 140px) 100vw, 140px"></p>
+<p class="contactbtn"><img class="gatsby-resp-image-image" style="width: 100%; height: 100%; margin: 0px; vertical-align: middle; position: absolute; top: 0px; left: 0px; box-shadow: white 0px 0px 0px 400px inset; opacity: 1; transition: opacity 0.5s ease 0s;" alt="Chat with us" title="" src="/images/button_chat-with-us.png" srcset="/images/button_chat-with-us.png 140w" sizes="(max-width: 140px) 100vw, 140px"></p>
