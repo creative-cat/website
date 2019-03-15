@@ -10,7 +10,7 @@ class Form extends React.Component {
     name: 'Simple Form Ajax',
     subject: '', // optional subject of the notification email
     action: '',
-    successMessage: 'Thanks for your enquiry, we will get back to you soon',
+    successMessage: 'Thanks for your inquiry, we will get back to you soon',
     errorMessage:
       'There is a problem, your message has not been sent, please try contacting us via email'
   }
@@ -129,11 +129,11 @@ class Form extends React.Component {
             <select
               className="Form--Input Form--Select"
               name="type"
-              defaultValue="Type of Enquiry"
+              defaultValue="Type of Inquiry"
               required
             >
               <option disabled hidden>
-                Type of Enquiry
+                Type of Inquiry
               </option>
               <option>Need to know more</option>
               <option>Found a bug</option>
@@ -167,7 +167,7 @@ class Form extends React.Component {
           <input
             className="Button Form--SubmitButton"
             type="submit"
-            value="Enquire"
+            value="Inquire"
             disabled={this.state.disabled}
           />
         </form>
