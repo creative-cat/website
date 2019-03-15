@@ -49,4 +49,4 @@ We love serverless technology. Here are some reasons why:
 * Simple staging & split-testing
 
 
-[![Chat with us](/images/button_chat-with-us.png)](https://epic-galileo-849c43.netlify.com/contact/)
+[![Chat with us](/images/button_chat-with-us.png)](https://www.creative.cat/contact/)
