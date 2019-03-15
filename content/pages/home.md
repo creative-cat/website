@@ -46,8 +46,6 @@ We love serverless technology. Here are some reasons why:
 * Energy efficient & environmentally responsible
 * Stable & fast for high-traffic sites
 * Git, version control, & CI/CD
-* Branch split-testing
+* Simple staging & split-testing
 
-## Get started
-
-[![Chat with us](/images/button_chat-with-us.png)](#)
+<p class="contactbtn"><img class="gatsby-resp-image-image" style="width: 100%; height: 100%; margin: 0px; vertical-align: middle; position: absolute; top: 0px; left: 0px; box-shadow: white 0px 0px 0px 400px inset; opacity: 1; transition: opacity 0.5s ease 0s;" alt="Chat with us" title="" src="/static/a023a9381fca2c229058fa578b0dddf4/f48da/button_chat-with-us.png" srcset="/static/a023a9381fca2c229058fa578b0dddf4/f48da/button_chat-with-us.png 140w" sizes="(max-width: 140px) 100vw, 140px"></p>
