@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import GoogleMapReact from 'google-map-react'
 import { MapPin } from 'react-feather'
 
-let mapkey = ''
+let mapkey = 'AIzaSyDGg0wxgml8SX5tmySl3OwMWNzfgQy3H74'
 if (process.env.NETLIFY_MAP_KEY) {
   mapkey = process.env.NETLIFY_MAP_KEY
 }
