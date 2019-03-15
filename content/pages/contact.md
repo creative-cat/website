@@ -1,7 +1,7 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
+title: Contact Us
 featuredImage: >-
   https://ucarecdn.com/d70d6fbe-72eb-4e53-882f-fcf3b290fafa/-/preview/-/grayscale/
 subtitle: '> Let''s get in touch'
@@ -18,4 +18,4 @@ meta:
 ---
 ## How to reach us
 
-Feel free to submit this form, give us a call, or send us a live-chat message. We'll respond quickly to your inquiry.
+Feel free to submit this form, give us a call, or send us a live-chat message. We'll respond quickly to your inquiry. 
