@@ -7,7 +7,7 @@ featuredImage: >-
 subtitle: |-
   >  **A Digital Solutions Provider**
   >
-  > > based in Utah
+  > > based in Orem, Utah
 accordion: []
 meta:
   description: >-
