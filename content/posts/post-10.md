@@ -1,18 +1,24 @@
 ---
 template: SinglePost
-title: Cat
+title: Welcome!
 status: Published
-date: '2018-03-28'
+date: 2019-03-01T07:00:00.000Z
 featuredImage: >-
   https://ucarecdn.com/69bcae44-f555-4b56-b08e-bd0f2013654a/-/crop/1634x1690/0,434/-/preview/
-excerpt: This is an excerpt of Post Two
+excerpt: Welcome to our site!
 categories:
   - category: Updates
+  - category: News
 meta:
-  description: test meta description
-  title: test meta title
+  description: >-
+    Welcome to our new site. While we loved our old design, it definitely needed
+    a bit of a refresh. We've settled with Gatsby and NetlifyCMS.
+  title: Welcome to our New Site!
 ---
+Welcome to our new site. While we loved our old design, it definitely needed a bit of a refresh. We've settled with [Gatsby](https://gatsbyjs.org/) and [NetlifyCMS](https://github.com/netlify/netlify-cms). Let us know what you think! Please bare with us as we continue to modify & improve the design. 
 
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language. Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website.
+We'll be publishing some new content soon.
 
-This paragraph has been copied from a program that automatically generates paragraphs like this. It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.
+If you have any suggestions or comments, we'd love to hear them.
+
+Stay tuned!
