@@ -50,7 +50,7 @@ export default class InstagramFeed extends Component {
 
     if (!insaFeed) {
       typeof window !== 'undefined' &&
-        fetch(`https://instagram.thrivex.io/?ref=gfx.mob`)
+        fetch(`https://instagram.thrivex.io/?ref=creative.cat.development`)
           .then(res => res.json())
           .then(data => {
             insaFeed = data && data.items ? data.items : []
@@ -100,7 +100,7 @@ export default class InstagramFeed extends Component {
 const Post = ({ src, code }) => (
   <a
     className="InstagramFeed--EmptyPost InstagramFeed--EmptyPost-loaded"
-    href={`https://instagram.com/p/${code}`}
+    href={`#`}
     rel="noopener noreferrer"
     target="_blank"
     aria-label="Instagram Post Link"
