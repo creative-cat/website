@@ -1,8 +1,10 @@
 ---
 template: BlogIndex
 title: News
-subtitle: ''
-featuredImage: >-
-  https://ucarecdn.com/db0b1431-8739-426f-970d-8a80eacf02ef/-/preview/-/rotate/270/
+subtitle: '****'
+featuredImage: 'https://ucarecdn.com/724eaddd-0b1b-4f98-a2e8-68d2b4c5e25d/'
+meta:
+  description: Grab the latest news from the world of Creative Cat.
+  title: News
 ---
 
