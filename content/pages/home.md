@@ -17,9 +17,11 @@ meta:
     presence securely and efficiently.
   title: Creative Cat - Web Development & Design | Marketing | Serverless
 ---
-We help design & develop creative solutions to help solve problems, with a strong focus on web technologies.
+# About us
 
-Our infrastructure is backed by industry-leading technology to ensure we deliver dependable results. We keep up with latest technology trends to implement powerful solutions that help solve real problems in our communities.
+We help solve problems with technology.
+
+Our infrastructure is backed by industry-leading systems to deliver truly dependable results. We keep up with latest technology trends to give powerful solutions that help solve real issues facing our communities.
 
 Not sure exactly what solutions you're looking for? That's fine— most people don't! That's where we come in. We can help you discover where your technology stack might be lacking and what might be holding you back (or simply unnecessarily draining your wallet).
 
@@ -47,5 +49,3 @@ We love serverless technology. Here are some reasons why:
 * Branch split-testing
 
 ## Get started
-
-Let's get in touch. View the Contact Us page or send a message via live-chat.
