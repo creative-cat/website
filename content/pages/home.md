@@ -48,6 +48,5 @@ We love serverless technology. Here are some reasons why:
 * Git, version control, & CI/CD
 * Simple staging & split-testing
 
-## Get started
 
-<center><p class="contactbtn"><img class="gatsby-resp-image-image" style="width: 100%; height: 100%; margin: 0px; vertical-align: middle; position: absolute; top: 0px; left: 0px; box-shadow: white 0px 0px 0px 400px inset; opacity: 1; transition: opacity 0.5s ease 0s;" alt="Chat with us" title="" src="/images/button_chat-with-us.png" srcset="/images/button_chat-with-us.png 140w" sizes="(max-width: 140px) 100vw, 140px"></p></center>
+[![Chat with us](/images/button_chat-with-us.png)](https://epic-galileo-849c43.netlify.com/contact/)
