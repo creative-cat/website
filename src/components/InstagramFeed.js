@@ -101,7 +101,6 @@ const Post = ({ src, code }) => (
   <a
     className="InstagramFeed--EmptyPost InstagramFeed--EmptyPost-loaded"
     href={`https://www.creative.cat/contact/`}
-    rel="noopener noreferrer"
     target="_blank"
     aria-label="Instagram Post Link"
   >
