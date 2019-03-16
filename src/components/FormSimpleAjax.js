@@ -9,7 +9,7 @@ class Form extends React.Component {
   static defaultProps = {
     name: 'Simple Form Ajax',
     subject: '', // optional subject of the notification email
-    action: '',
+    action: 'https://app.99inbound.com/api/e/hG4HqDCo',
     successMessage: 'Thanks for your inquiry, we will get back to you soon',
     errorMessage:
       'There is a problem, your message has not been sent, please try contacting us via email'
@@ -64,7 +64,7 @@ class Form extends React.Component {
         <form
           className="Form"
           name={name}
-          action="https://app.99inbound.com/api/e/hG4HqDCo"
+          action={action}
           onSubmit={this.handleSubmit}
           data-netlify=""
           netlify-recaptcha=""
