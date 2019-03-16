@@ -142,9 +142,6 @@ class Form extends React.Component {
             data-sitekey="6LerTJcUAAAAADIsCsVHRHJtpcoFkHs9QfgQolcJ"
             required
           />
-          <div style="position: absolute; left: -5000px;">
-            <input type="checkbox" name="governing_black_honeycomb_crane" value="1" tabindex="-1" autocomplete="no" />
-          </div>
           {!!subject && <input type="hidden" name="subject" value={subject} />}
           <input type="hidden" name="form-name" value={name} />
           <input
