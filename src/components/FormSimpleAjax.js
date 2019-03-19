@@ -12,7 +12,7 @@ class Form extends React.Component {
     action: 'https://app.99inbound.com/api/e/hG4HqDCo',
     successMessage: 'Thanks for your inquiry, we will get back to you soon',
     errorMessage:
-      'There is a problem, your message has not been sent, please try contacting us via email'
+      'Thanks for your inquiry, we will get back to you soon'
   }
 
   state = {
