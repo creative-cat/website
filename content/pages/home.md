@@ -32,7 +32,7 @@ Not sure exactly what solutions you're looking for? That's fine— most people d
 * Hosting & Support
 * eMarketing, Adwords & SEO
 
-This website was built with with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org) to bring you lightning-fast page load speeds and high-ranking SEO scores.
+This website was built with with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org) to bring you lightning-fast page load speeds.
 
 We love serverless technology. Here are some reasons why:
 
@@ -45,8 +45,7 @@ We love serverless technology. Here are some reasons why:
 * Obtain higher SEO scores
 * Energy efficient & environmentally responsible
 * Stable & fast for high-traffic sites
-* Git, version control, & CI/CD
+* Git, version control, CI/CD
 * Simple staging & split-testing
-
 
 [![Chat with us](/images/button_chat-with-us.png)](https://www.creative.cat/contact/)
