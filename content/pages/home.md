@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: Creative.Cat
 featuredImage: >-
-  https://ucarecdn.com/e4d0a95e-e242-4afd-9156-acc958df6c7f/-/preview/-/enhance/100/-/grayscale/
+  https://creative.cat/images/0.gif
 subtitle: |-
   >  **A Digital Solutions Provider**
   >
