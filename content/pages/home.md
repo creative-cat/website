@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: Creative.Cat
 featuredImage: >-
-  https://creative.cat/images/0.gif
+  /images/14.gif
 subtitle: |-
   >  **A Digital Solutions Provider**
   >
