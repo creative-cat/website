@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Creative.Cat
-featuredImage: '/images/2.gif'
+featuredImage: /images/2.gif
 subtitle: |-
   >  **A Digital Solutions Provider**
   >
@@ -27,9 +27,9 @@ Not sure exactly what solutions you're looking for? That's fine— most people d
 ## What we offer
 
 * Coding & Development
-* Web Design
-* Hosting & Support
-* eMarketing, Adwords & SEO
+* Data Security & Auditing
+* Dedicated Server Hosting & Support
+* eMarketing, Adwords, & SEO
 
 This website was built with with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org) to bring you lightning-fast page load speeds.
 
