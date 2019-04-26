@@ -25,7 +25,7 @@ Traditionally, if a user in Australia wanted to access content from a site hoste
 
 By using a CDN, your content is being added to a global network of computer servers that serve your site's content according to the user's location. If you are using Amazon's CloudFront, for example, your content is available in over 150+ locations worldwide. 
 
-By using a CDN, these global visitors would see load speeds similar to local websites. As this could possibly save 5+ seconds for global visitors of your website, this could dramatically increase active & engaged users while decreasing bounce rates. Plus, you can increase the SEO for your global audience.  
+By using a CDN, these global visitors would see load speeds similar to local websites. As this could possibly save 5+ seconds for global visitors of your website, this could dramatically increase active & engaged users while decreasing bounce rates. Plus, this may increase the SEO for your global audience.  
 
 If your site ever receives a viral spike in traffic, a CDN can save your site from crashing.  The last thing you want is an overloaded server when you're receiving loads of great traffic! By offloading resources from your origin/host server to a CDN, this helps avoid network & hardware limitations, which can also save on hosting costs.
 
