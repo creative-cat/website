@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Why you NEED 'https' or SSL
+title: 'Why your site needs SSL or ''https'' '
 status: Published
 date: 2019-04-11T05:46:35.805Z
 featuredImage: 'https://ucarecdn.com/c4b8df3d-23b9-4259-bd1a-9f3b36d1fcb3/'
@@ -18,9 +18,7 @@ meta:
     address. Here are some of the reasons why you need this enabled:
   title: Why you NEED 'https' or SSL
 ---
-These days, SSL should be provided on your website, by default, for **free**. Unfortunately, some providers either don't provide this or charge you ridiculous fees. 
-
-
+These days, SSL encryption should be provided on your website, by default, for **free**. Unfortunately, some providers either don't provide this or charge you ridiculous fees. 
 
 Google has made a few changes that have made SSL essentially a requirement for any website. SSL is what gives your site its' '_https'_ in the web address. Here are some of the reasons why you need this enabled:
 
