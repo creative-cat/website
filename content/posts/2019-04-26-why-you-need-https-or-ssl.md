@@ -10,6 +10,7 @@ excerpt: >-
   are some of the reasons why you need this enabled:
 categories:
   - category: News
+  - category: Updates
 meta:
   description: >-
     Google has made a few changes that have made SSL essentially a requirement
